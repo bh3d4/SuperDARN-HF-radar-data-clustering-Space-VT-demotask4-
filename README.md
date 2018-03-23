@@ -1,0 +1,2 @@
+# SuperDARN-HF-radar-data-clustering-Space-VT-demotask4-
+Backscatter echoes from Super Dual Auroral Radar Network (SuperDARN) high frequency (HF) radars can be categorized into different clusters according to where they are from. SuperDARN data can be accessed from a python based software named davitpy (see the website link below). Demos of SuperDARN data access and visualization can be found in the notebook. Students can work on a variety of demo projects using SuperDARN data
